@@ -1,0 +1,9 @@
+document_type,filename,raw_characters,cleaned_characters,raw_words,cleaned_words
+Invoice,X00016469612.txt,389,390,74,75
+Invoice,X00016469620.txt,708,679,136,126
+Invoice,X00016469622.txt,472,450,78,73
+Resume,Image_1.txt,157,157,23,23
+Resume,Image_10.txt,42,42,8,8
+ID Card,0005_jpeg_jpg.rf.252590ac8ae7f0f84a08f15a164d6cb0.txt,127,127,16,16
+ID Card,0521_adhar_jpg.rf.0188ba6593c38a70e56de2509a244a4d.txt,31,16,7,4
+ID Card,0521_adhar_jpg.rf.0b52a68eba1d0f3ea5d868a66390409a.txt,36,21,9,6

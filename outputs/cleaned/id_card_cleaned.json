@@ -1,0 +1,26 @@
+{
+    "0005_jpeg_jpg.rf.252590ac8ae7f0f84a08f15a164d6cb0.txt": {
+        "raw_text": "NNCOHE TAXDEPAMHENT\nGOVT OF NNDIA\nMONIKA MAHADEV SHINDE\nMAHADEv SHINDE\n31/10/1992\nPcrmpnonk Accounl Numbcr\nEJAPSO276M\nSlgnaluro",
+        "cleaned_text": "NNCOHE TAXDEPAMHENT\nGOVT OF NNDIA\nMONIKA MAHADEV SHINDE\nMAHADEv SHINDE\n31/10/1992\nPcrmpnonk Accounl Numbcr\nEJAPSO276M\nSlgnaluro",
+        "raw_characters": 127,
+        "cleaned_characters": 127,
+        "raw_words": 16,
+        "cleaned_words": 16
+    },
+    "0521_adhar_jpg.rf.0188ba6593c38a70e56de2509a244a4d.txt": {
+        "raw_text": "8770 1802 0033\n8770 1802 0033\n7",
+        "cleaned_text": "8770 1802 0033\n7",
+        "raw_characters": 31,
+        "cleaned_characters": 16,
+        "raw_words": 7,
+        "cleaned_words": 4
+    },
+    "0521_adhar_jpg.rf.0b52a68eba1d0f3ea5d868a66390409a.txt": {
+        "raw_text": "8770 1802 0033\n8770 1802 0033\nHU\n0\n8",
+        "cleaned_text": "8770 1802 0033\nHU\n0\n8",
+        "raw_characters": 36,
+        "cleaned_characters": 21,
+        "raw_words": 9,
+        "cleaned_words": 6
+    }
+}

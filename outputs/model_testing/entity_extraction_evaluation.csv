@@ -1,0 +1,9 @@
+filename,document_type,detected_fields,total_expected_fields,field_coverage,emails,phone_numbers,dates,amounts,invoice_number,gstin,persons,organizations,locations,id_numbers
+X00016469612.txt,Invoice,0,6,0.0,False,False,False,False,False,False,,,,
+X00016469620.txt,Invoice,1,6,0.16666666666666666,False,False,True,False,False,False,,,,
+X00016469622.txt,Invoice,0,6,0.0,False,False,False,False,False,False,,,,
+Image_1.txt,Resume,2,5,0.4,False,False,,,,,True,True,False,
+Image_10.txt,Resume,1,5,0.2,False,False,,,,,False,True,False,
+0005_jpeg_jpg.rf.252590ac8ae7f0f84a08f15a164d6cb0.txt,ID Card,2,3,0.6666666666666666,,,True,,,,True,,,False
+0521_adhar_jpg.rf.0188ba6593c38a70e56de2509a244a4d.txt,ID Card,1,3,0.3333333333333333,,,False,,,,False,,,True
+0521_adhar_jpg.rf.0b52a68eba1d0f3ea5d868a66390409a.txt,ID Card,1,3,0.3333333333333333,,,False,,,,False,,,True

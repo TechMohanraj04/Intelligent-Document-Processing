@@ -1,0 +1,18 @@
+{
+    "Image_1.txt": {
+        "raw_text": "Diana Dawa\nb\n4\nWORK BPERIENCE\nGENERAL SKILLS\nData Sdendtt\nTECHNICAL SKILLS\ndr\nTHETA Filrck G:ol?\nCERTIFICATES\ntd\nMukaa\nEDUCATION\nLet\nINTERESTS\nnoyorojumc.com",
+        "cleaned_text": "Diana Dawa\nb\n4\nWORK BPERIENCE\nGENERAL SKILLS\nData Sdendtt\nTECHNICAL SKILLS\ndr\nTHETA Filrck G:ol?\nCERTIFICATES\ntd\nMukaa\nEDUCATION\nLet\nINTERESTS\nnoyorojumc.com",
+        "raw_characters": 157,
+        "cleaned_characters": 157,
+        "raw_words": 23,
+        "cleaned_words": 23
+    },
+    "Image_10.txt": {
+        "raw_text": "ABDIRAHMAN DICKINSON\nHSC\n0\nDTDDI\nS\nJII\n'an",
+        "cleaned_text": "ABDIRAHMAN DICKINSON\nHSC\n0\nDTDDI\nS\nJII\n'an",
+        "raw_characters": 42,
+        "cleaned_characters": 42,
+        "raw_words": 8,
+        "cleaned_words": 8
+    }
+}

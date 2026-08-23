@@ -1,0 +1,50 @@
+{
+    "Image_1.txt": {
+        "document_type": "resume",
+        "entities": {
+            "emails": [],
+            "phone_numbers": [],
+            "dates": [],
+            "amounts": [],
+            "spacy_entities": {
+                "PERSON": [
+                    "Diana Dawa",
+                    "Mukaa"
+                ],
+                "CARDINAL": [
+                    "4"
+                ],
+                "ORG": [
+                    "Data Sdendtt\nTECHNICAL"
+                ]
+            },
+            "persons": [
+                "Diana Dawa",
+                "Mukaa"
+            ],
+            "organizations": [
+                "Data Sdendtt\nTECHNICAL"
+            ],
+            "locations": []
+        }
+    },
+    "Image_10.txt": {
+        "document_type": "resume",
+        "entities": {
+            "emails": [],
+            "phone_numbers": [],
+            "dates": [],
+            "amounts": [],
+            "spacy_entities": {
+                "ORG": [
+                    "ABDIRAHMAN"
+                ]
+            },
+            "persons": [],
+            "organizations": [
+                "ABDIRAHMAN"
+            ],
+            "locations": []
+        }
+    }
+}

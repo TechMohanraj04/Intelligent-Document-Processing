@@ -1,0 +1,4 @@
+filename,document_type,emails,phone_numbers,dates,amounts,invoice_number,gstin,persons,organizations,locations,id_numbers
+X00016469612.txt,invoice,,,,,,,,,,
+X00016469620.txt,invoice,,,12/01/19,,,,,,,
+X00016469622.txt,invoice,,,,,,,,,,

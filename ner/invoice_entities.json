@@ -1,0 +1,133 @@
+{
+    "X00016469612.txt": {
+        "document_type": "invoice",
+        "entities": {
+            "emails": [],
+            "phone_numbers": [],
+            "dates": [],
+            "amounts": [],
+            "spacy_entities": {
+                "ORG": [
+                    "55,57 & S9",
+                    "SAGU I8",
+                    "Cashier"
+                ],
+                "PERSON": [
+                    "TAMAN DAYA",
+                    "Acljustnienl"
+                ],
+                "CARDINAL": [
+                    "81100",
+                    "25/12p2018",
+                    "8",
+                    "13.39",
+                    "1",
+                    "9.00",
+                    "0,C0",
+                    "0.00",
+                    "0o"
+                ],
+                "MONEY": [
+                    "# #ii"
+                ]
+            },
+            "invoice_number": null,
+            "gstin": []
+        }
+    },
+    "X00016469620.txt": {
+        "document_type": "invoice",
+        "entities": {
+            "emails": [],
+            "phone_numbers": [],
+            "dates": [
+                "12/01/19"
+            ],
+            "amounts": [],
+            "spacy_entities": {
+                "ORG": [
+                    "REG",
+                    "KaHASAN PERINDUSTRIAH BALAKOHG\n",
+                    "AIR PRESSURE SPRAYER SX-575-1",
+                    "EXCHAHGE ARE ALLOHED"
+                ],
+                "CARDINAL": [
+                    "933109",
+                    "6",
+                    "43300",
+                    "1",
+                    "1.5L",
+                    "7",
+                    "5",
+                    "02\n8",
+                    "02",
+                    "48",
+                    "9557031100236",
+                    "3.02",
+                    "3",
+                    "88",
+                    "4",
+                    "92",
+                    "33-90",
+                    "90",
+                    "16.10\n12/01/19",
+                    "21",
+                    "13"
+                ],
+                "DATE": [
+                    "1851-4",
+                    "' 33",
+                    "~RH 0",
+                    "50"
+                ],
+                "PERSON": [
+                    "SCM"
+                ],
+                "MONEY": [
+                    "803H#\nEZIOHDO5"
+                ],
+                "QUANTITY": [
+                    "1 X\n8"
+                ],
+                "PRODUCT": [
+                    "CLEAHER-120HL"
+                ]
+            },
+            "invoice_number": null,
+            "gstin": []
+        }
+    },
+    "X00016469622.txt": {
+        "document_type": "invoice",
+        "entities": {
+            "emails": [],
+            "phone_numbers": [],
+            "dates": [],
+            "amounts": [],
+            "spacy_entities": {
+                "ORG": [
+                    "JALAN",
+                    "TEL"
+                ],
+                "CARDINAL": [
+                    "13",
+                    "07-3523888",
+                    "8318",
+                    "60 91",
+                    "0.00",
+                    "80.90",
+                    "100.00",
+                    "19.10",
+                    "80.91",
+                    "0 00"
+                ],
+                "DATE": [
+                    "80 91",
+                    "80 01"
+                ]
+            },
+            "invoice_number": null,
+            "gstin": []
+        }
+    }
+}

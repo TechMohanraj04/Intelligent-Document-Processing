@@ -1,0 +1,71 @@
+{
+    "0005_jpeg_jpg.rf.252590ac8ae7f0f84a08f15a164d6cb0.txt": {
+        "document_type": "id_card",
+        "entities": {
+            "emails": [],
+            "phone_numbers": [],
+            "dates": [
+                "31/10/1992"
+            ],
+            "amounts": [],
+            "spacy_entities": {
+                "ORG": [
+                    "NNCOHE TAXDEPAMHENT\n",
+                    "GOVT OF NNDIA"
+                ],
+                "PERSON": [
+                    "MAHADEV SHINDE",
+                    "Accounl Numbcr"
+                ]
+            },
+            "persons": [
+                "MAHADEV SHINDE",
+                "Accounl Numbcr"
+            ],
+            "id_numbers": []
+        }
+    },
+    "0521_adhar_jpg.rf.0188ba6593c38a70e56de2509a244a4d.txt": {
+        "document_type": "id_card",
+        "entities": {
+            "emails": [],
+            "phone_numbers": [],
+            "dates": [],
+            "amounts": [],
+            "spacy_entities": {
+                "DATE": [
+                    "8770 1802 0033"
+                ],
+                "CARDINAL": [
+                    "7"
+                ]
+            },
+            "persons": [],
+            "id_numbers": [
+                "8770 1802 0033"
+            ]
+        }
+    },
+    "0521_adhar_jpg.rf.0b52a68eba1d0f3ea5d868a66390409a.txt": {
+        "document_type": "id_card",
+        "entities": {
+            "emails": [],
+            "phone_numbers": [],
+            "dates": [],
+            "amounts": [],
+            "spacy_entities": {
+                "DATE": [
+                    "8770 1802 0033"
+                ],
+                "CARDINAL": [
+                    "0",
+                    "8"
+                ]
+            },
+            "persons": [],
+            "id_numbers": [
+                "8770 1802 0033"
+            ]
+        }
+    }
+}
