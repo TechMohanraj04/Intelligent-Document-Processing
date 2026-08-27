@@ -4,6 +4,14 @@ An AI-powered **Intelligent Document Processing (IDP)** application that automat
 
 ## 🌐 Live Demo
 
+🤗 **Hugging Face Deployment:**
+
+👉 https://huggingface.co/spaces/Mohanrajdeena/Intelligent-document-processing
+
+The application is deployed on Hugging Face using Gradio and provides AI-powered document processing for invoices, resumes, and ID cards.
+
+---
+
 🚀 **Deployed Streamlit Application:**
 
 👉 https://intelligent-document-processing-jphfscl8pyay96uaxsadc6.streamlit.app/
